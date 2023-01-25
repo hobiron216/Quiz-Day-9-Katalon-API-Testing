@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - Berhasil Create Token - Postive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8454ffbf-a006-4bc5-a732-a732aa7e937c</testCaseGuid>
+</TestCaseEntity>
