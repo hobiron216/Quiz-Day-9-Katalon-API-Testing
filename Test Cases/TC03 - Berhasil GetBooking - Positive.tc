@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Berhasil GetBooking - Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ded42c1e-4c83-4f50-adba-42bbc3f94807</testCaseGuid>
+</TestCaseEntity>

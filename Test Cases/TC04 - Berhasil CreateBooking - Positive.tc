@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - Berhasil CreateBooking - Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c64f630b-b274-4661-b213-1179891e6576</testCaseGuid>
+</TestCaseEntity>
